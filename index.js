@@ -4,8 +4,8 @@ var listaVeiculos = []
 function iniciarTabela(){
     return `<div class="linhaVeiculos">
                 <p class="item">Id</p>
-                <p class="item">Nome</p>
-                <p class="item">Idade</p>
+                <p class="item">Modelo</p>
+                <p class="item">Ano</p>
                 <p class="item">Alterar</p>
                 <p class="item">Excluir</p>
             </div>`;
