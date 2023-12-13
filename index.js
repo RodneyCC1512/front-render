@@ -1,4 +1,4 @@
-const URL = "https://projetohospinfo21b.onrender.com"
+const URL = "https://projetohospinfo21b.onrender.com/veiculos"
 var listaVeiculos = []
 
 function iniciarTabela(){
